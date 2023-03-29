@@ -1,6 +1,6 @@
 Hi, I’m @Anne-Andresen 
 
-PhD-student at Aarhus university and Danish center for paritcle therapy developing DL tranformer models for radiotherapy research 
+PhD-student at Aarhus university and Danish center for paritcle therapy developing DL tranformer models for clinical research 
 
 M.Sc. in biomedical engineering and informatics from Aalborg university focused on deep learning development/research in computer vision for medical imagery. 
 
