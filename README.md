@@ -1,6 +1,6 @@
 Hi, I’m @Anne-Andresen 
 
-PhD-student at Aarhus university and Danish center for paritcle therapy developing DL tranformer models for brain cancer research 
+PhD-student at Aarhus university and Danish center for paritcle therapy developing DL models for brain cancer research 
 
 M.Sc. in biomedical engineering and informatics from Aalborg university focused on deep learning development/research in computer vision for medical imagery. 
 
