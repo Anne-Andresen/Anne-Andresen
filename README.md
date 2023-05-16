@@ -1,6 +1,8 @@
 Hi, I’m @Anne-Andresen 
 
-PhD-student at Aarhus university and Danish center for paritcle therapy developing DL models for brain cancer research 
+I use aritifical neurons 🤖 to help biological neurons 🧠, which are not doing well, become better! 
+
+PhD-student at Aarhus university and Danish center for particle therapy developing DL models for brain cancer research 
 
 M.Sc. in biomedical engineering and informatics from Aalborg university focused on deep learning development/research in computer vision for medical imagery. 
 
