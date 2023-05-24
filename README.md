@@ -1,6 +1,6 @@
 Hi, I’m @Anne-Andresen 
 
-I use aritifical neurons 🤖 to help biological neurons 🧠, which are not doing well, become better! 
+I use aritifical neurons 🤖 to help biological neurons 🧠, which are not doing well, feel better! 
 
 PhD-student at Aarhus university and Danish center for particle therapy developing DL models for brain cancer research 
 
