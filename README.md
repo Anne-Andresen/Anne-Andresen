@@ -1,6 +1,6 @@
 Hi, I’m @Anne-Andresen 
 
-I use aritifical neurons 🤖 to help biological neurons 🧠, which are not doing well, feel better! 
+I use aritifical neurons 🤖 to help biological neurons 🧠, feel better! 
 
 
 
